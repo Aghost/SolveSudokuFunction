@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolveSudokuFunction/1.0.0": {
+        "runtime": {
+          "SolveSudokuFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolveSudokuFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
