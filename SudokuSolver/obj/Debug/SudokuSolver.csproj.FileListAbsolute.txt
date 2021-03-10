@@ -1,0 +1,362 @@
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\ApplicationInsights.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\SudokuSolver.dll.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\SudokuSolver.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\SudokuSolver.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\csc.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\csc.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\csc.rsp
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\csi.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\csi.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\csi.rsp
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.AppContext.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Console.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Claims.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\vbc.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\vbc.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\vbc.rsp
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Antlr3.Runtime.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.Web.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.ApplicationInsights.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Newtonsoft.Json.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Helpers.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Mvc.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Optimization.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Razor.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Razor.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\WebGrease.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Helpers.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Mvc.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Optimization.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.Razor.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Razor.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Newtonsoft.Json.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Antlr3.Runtime.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.AI.Web.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CopyComplete
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\ApplicationInsights.config
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\SudokuSolver.dll.config
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\SudokuSolver.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\SudokuSolver.pdb
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\csc.exe
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\csc.exe.config
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\csc.rsp
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\csi.exe
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\csi.exe.config
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\csi.rsp
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.AppContext.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Console.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.Compression.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Claims.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.ValueTuple.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\vbc.exe
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\vbc.exe.config
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\vbc.rsp
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\VBCSCompiler.exe
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Antlr3.Runtime.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.Web.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Newtonsoft.Json.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Helpers.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Mvc.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Optimization.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Razor.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Razor.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\WebGrease.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Helpers.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Mvc.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Optimization.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.Razor.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Web.WebPages.Razor.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Newtonsoft.Json.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Antlr3.Runtime.pdb
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.AI.Web.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CopyComplete
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.dll
+C:\Users\tom.vanderEsch\Documents\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\ApplicationInsights.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\SudokuSolver.dll.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\SudokuSolver.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\SudokuSolver.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\csc.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\csc.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\csc.rsp
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\csi.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\csi.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\csi.rsp
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.AppContext.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Console.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.Claims.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\vbc.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\vbc.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\vbc.rsp
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Antlr3.Runtime.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.Web.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.ApplicationInsights.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Newtonsoft.Json.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Helpers.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Mvc.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Optimization.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Razor.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.WebPages.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.WebPages.Razor.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\WebGrease.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Helpers.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Mvc.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Optimization.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.Razor.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.WebPages.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Web.WebPages.Razor.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Newtonsoft.Json.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Antlr3.Runtime.pdb
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.AI.Web.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CopyComplete
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\obj\Debug\SudokuSolver.dll
+C:\Users\danie\Documents\Visual Studio 2017\Projects\SudokuSolver - Kweekvijver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\ApplicationInsights.config
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\SudokuSolver.dll.config
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\SudokuSolver.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\SudokuSolver.pdb
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\csc.exe
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\csc.exe.config
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\csc.rsp
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\csi.exe
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\csi.exe.config
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\csi.rsp
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.AppContext.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Console.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.IO.Compression.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.IO.Pipes.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.Claims.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.ValueTuple.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Xml.XPath.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\vbc.exe
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\vbc.exe.config
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\vbc.rsp
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\VBCSCompiler.exe
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Antlr3.Runtime.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.Web.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.ApplicationInsights.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Newtonsoft.Json.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Helpers.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Mvc.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Optimization.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Razor.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.WebPages.Deployment.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.WebPages.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.WebPages.Razor.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\WebGrease.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Helpers.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Mvc.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Optimization.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.Razor.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.WebPages.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.WebPages.Deployment.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Web.WebPages.Razor.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Newtonsoft.Json.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Antlr3.Runtime.pdb
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.AI.Web.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\obj\Debug\SudokuSolver.csproj.CopyComplete
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\obj\Debug\SudokuSolver.dll
+C:\Users\deploy\Desktop\SudokuSolver - Unsolved\SudokuSolver - Unsolved\SudokuSolver\obj\Debug\SudokuSolver.pdb
